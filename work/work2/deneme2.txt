@@ -1,0 +1,13 @@
+Dosyalarla Calisma
+Birinci Kisim: Dosyalari Acma
+r modu: Okuma Modu (Dosya yoksa hata verir)
+w modu: Yazma Modu (Dosya yoksa olusturur)
+r+ modu: Hem okuma hem yazma modu
+a modu: Dosyanin sonuna ekleme modu
+b modu: binary mode
+Dosyalari Kapatma
+With open yapisi
+Ikinci Kisim: Dosyalari Okuma
+read()
+readline()
+readlines()
