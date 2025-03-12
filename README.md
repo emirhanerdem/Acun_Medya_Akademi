@@ -5,3 +5,4 @@
 - lecture3_oop
 - lecture4_inheritance
 - lecture5_modules
+- lecture6_pandas
